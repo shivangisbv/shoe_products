@@ -1,5 +1,5 @@
 { 
-  "product": [
+  "product": [ 
   { "id": 1, "name": "Running Shoes - Men", "brand": "Nike", "categories": "Sports", "price": 99.99, "inStock": true, "size": "10", "gender": "Men", "reviewerRating": 4.2, "date": "2023-03-05" },
   { "id": 2, "name": "Sneakers - Women", "brand": "Adidas", "categories": "Running Shoes", "price": 79.99, "inStock": true, "size": "8", "gender": "Women", "reviewerRating": 3.8, "date": "2023-02-15" },
   { "id": 3, "name": "Basketball Shoes - Men", "brand": "Jordan", "categories": "Sports", "price": 129.99, "inStock": true, "size": "11", "gender": "Men", "reviewerRating": 4.5, "date": "2023-01-22" },
